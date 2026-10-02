@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: lexach.com
+**URL**: [lexach.com](lexach.com)
 
 ## What technologies are used for this project?
 
